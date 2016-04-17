@@ -20,5 +20,5 @@ Build a basic blog page that has 5 articles and any random topics you want to ta
 
 ### Screenshots:
 
-![Screenshot of Music History, Part 1](https://raw.githubusercontent.com/mattbruton/musichistory-boilerplate/master/Screenshots/MusicHistorySS.png)
+![Screenshot of The Static Web - Blog](https://raw.githubusercontent.com/mattbruton/html-exercise-blog/master/img/blog-screenshot.png)
 
