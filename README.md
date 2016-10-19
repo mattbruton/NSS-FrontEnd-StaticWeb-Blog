@@ -1,9 +1,64 @@
-# NSS Exercise - The Static Web - Blog
-### Description:
+# HTML Exercise - Blog
 
-> Create basic structure for a blog using only HTML.
+This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic HTML.
 
-### Specifications:  
+==============================
+
+- Viewing/Downloading Project
+    - [To View Hosted Project](#to-view-hosted-project)
+    - [Installation](#installation)
+    - [To Run](#torun)
+- Specifications and Project Information
+    - [Languages] (#languages)
+    - [Tools] (#tools)
+    - [Specifications] (#specifications)
+
+==============================
+
+## Viewing/Downloading Project
+
+### To View Hosted Project
+
+[HTML Exercise - Blog](https://mb-nss-exercises.firebaseapp.com/blog/index.html)
+
+### Installation
+
+Clone the repository from GitHub:
+
+`git clone https://github.com/mattbruton/NSS-FrontEnd-StaticWeb-Blog.git`
+
+Navigate to the project from the directory it was cloned into:
+
+`cd NSS-FrontEnd-StaticWeb-Blog/`
+
+### To Run
+
+If you need a command line http server, to install http-server globally:
+
+`npm install http-server -g`
+
+Then:
+
+`http-server` or `http-server -p XXXX` (the X's represent the port of your choice)
+
+You should now be able to open your browser and type `localhost:8080` to view the project.
+
+## Specs and Project Information
+
+### Languages
+
+1. HTML
+1. CSS
+
+### Tools
+
+1. [Git](https://git-scm.com/)
+1. [Atom](https://atom.io/)
+1. [NPM http-server](https://www.npmjs.com/package/http-server)
+
+### Specifications
+
+==============================
 
 Build a basic blog page that has 5 articles and any random topics you want to talk about. The text can be anything, even placeholder text ( look at this lorem ipsum text generator for an example of the official unofficial gibberish of web developers everywhere ).
 
@@ -13,12 +68,4 @@ Build a basic blog page that has 5 articles and any random topics you want to ta
 4. Each article has a footer containing the author and publication date.
 5. Each article has at least one section.
 
-### To Run:
-> Go to: `https://www.npmjs.com/package/http-server` and install "http-server".  
-> Navigate to the project folder in terminal and type: `http-server -p 8080`  
-> Go to: `http://localhost:8080` in your internet browser.  
-
-### Screenshots:
-
-![Screenshot of The Static Web - Blog](https://raw.githubusercontent.com/mattbruton/html-exercise-blog/master/img/blog-screenshot.png)
-
+==============================
